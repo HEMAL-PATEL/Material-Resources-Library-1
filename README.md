@@ -14,13 +14,13 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="Timer UI.png" alt="Timer UI"/>
+				<img src="Images/Timer UI.jpg" alt="Timer UI"/>
 			</td>
 			<td align="center">
-				<img src="Login UI.png" alt="Login UI"/>
+				<img src="Images/Login UI.jpg" alt="Login UI"/>
 			</td>
 			<td align="center">
-				<img src="Fitness UI.png" alt="Fitness UI"/>
+				<img src="Images/Fitness UI.jpg" alt="Fitness UI"/>
 			</td>
 		</tr>
 	</tbody>
